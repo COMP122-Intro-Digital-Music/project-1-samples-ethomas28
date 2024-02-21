@@ -1,1 +1,21 @@
-[ ]
+
+[
+  {
+    "name": "french_ambience",
+    "file": "samples/722659_aisselles_french-bar-ambience.mp3",
+    "bpm": "60",
+    "loop": "1m"
+  },
+  {
+    "name": "Little_Bird_Piano",
+    "file": "samples/723148_gregorquendel_grieg-little-bird-lyric-pieces-book-iii-opus-43-1886.mp3",
+    "bpm": "82",
+    "loop": "1m"
+  },
+  {
+    "name": "Sad_Piano_Loop",
+    "file": "samples/724208__gregorquendel__puccini-tosca-act-ii-vissi-darte.mp3",
+    "bpm": "78",
+    "loop": "1m"
+  }
+]
