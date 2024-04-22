@@ -22,5 +22,32 @@
         "type": "triangle"
       }
     }
+  }[
+  {
+    "name": "Default 2",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "0",
+      "portamento": "0.9",
+      "envelope": {
+        "attack": "0.15",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.36"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": "5",
+        "spread": "20"
+      }
+    }
   }
+]
 ] 
